@@ -1,0 +1,17 @@
+{
+  "id": "pcb2002",
+  "name": "박채빈",
+  "subName": "",
+  "profileImage": "image/github.svg",
+  "introduction": {
+    "quote": "백엔드와 AI개발을 희망합니다."
+  },
+  "info": {
+    "resolution": "집요하게 파고들겠슴니다."
+  },
+  "strengths": [
+    "문제 해결 능력",
+    "끈기",
+    "원만한 의사소통"
+  ]
+}

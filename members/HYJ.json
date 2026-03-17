@@ -1,0 +1,17 @@
+{
+  "id": "beyejin",
+  "name": "한예진",
+  "subName": "",
+  "profileImage": "image/github.svg",
+  "introduction": {
+    "quote": "반갑습니다"
+  },
+  "info": {
+    "resolution": "포부"
+  },
+  "strengths": [
+    "문제 해결 능력",
+    "끈기와 책임감",
+    "효율적인 의사소통"
+  ]
+}
