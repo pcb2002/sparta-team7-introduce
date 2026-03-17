@@ -1,0 +1,69 @@
+{
+  "id": "sirisiyesiri",
+  "name": "라예실",
+  "subName": "백엔드 개발자",
+  "profileImage": "",
+  "introduction": {
+    "quote": "노력하는 개발자, 라예실입니다.",
+    "detail": "함께 도전하고 성장하고 싶습니다."
+  },
+  "info": {
+    "description": "스파르타 부트캠프에서 백엔드 개발에 대해 배우고 있습니다.",
+    "birthday": "2003.11.20",
+    "location": "서울 구로구",
+    "email": " @naver.com",
+    "phone": "010-0000-0000"
+  },
+  "strengths": [
+    "",
+    "",
+    ""
+  ],
+  "skills": [
+    { "name": "HTML", "progress": 0 },
+    { "name": "CSS", "progress": 0 },
+    { "name": "JavaScript", "progress": 0 },
+    { "name": "React", "progress": 0 },
+    { "name": "Node.js", "progress": 0 }
+  ],
+  "licenses": [
+    "",
+    ""
+  ],
+  "education": [
+    {
+      "name": "구현 고등학교",
+      "period": "2019.03 ~ 2022.02 ",
+      "gpa": "",
+      "location": "서울시 구로구"
+    },
+    {
+      "name": "상명 대학교",
+      "period": "2022.03.02 ~ ",
+      "gpa": "",
+      "location": "서울시 종로구"
+    }
+  ],
+  "experience": [
+    {
+      "period": "",
+      "company": "",
+      "term": "",
+      "team": "",
+      "task": "",
+      "project": {
+        "name": "",
+        "term": "",
+        "detail": ""
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "",
+      "description": "개발 경험이 없는 초보 입니다.",
+      "image": "",
+      "link": ""
+    }
+  ]
+}
