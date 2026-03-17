@@ -1,0 +1,17 @@
+{
+  "id": "githubID",
+  "name": "홍길동",
+  "subName": "",
+  "profileImage": "image/github.svg",
+  "introduction": {
+    "quote": "본인 자기 소개"
+  },
+  "info": {
+    "resolution": "포부"
+  },
+  "strengths": [
+    "문제 해결 능력",
+    "끈기와 책임감",
+    "효율적인 의사소통"
+  ]
+}
