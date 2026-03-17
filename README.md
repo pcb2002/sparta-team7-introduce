@@ -14,3 +14,24 @@ sparta-git-cowork/
 │   └── example.json   # 예시 팀원 정보
 └── image/             # 이미지 파일 디렉토리
 ```
+
+커밋 메시지 구조
+```
+type : subject
+
+body 
+
+footer
+```
+
+type rule
+```
+Type	    설명
+Feat	    새로운 기능 추가
+Fix	        버그 수정
+Docs	    문서 수정
+Style	    스타일 관련 기능 (코드 포맷팅, 세미콜론 누락 등)
+Refactor	코드 리팩토링
+Test	    테스트 코드 추가
+Chore	    빌드 업무 수정, 패키지 매니저 수정
+```
