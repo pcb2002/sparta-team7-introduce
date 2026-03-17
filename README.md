@@ -3,16 +3,17 @@
 ## 프로젝트 구조
 ```
 sparta-git-cowork/
-├── index.html          # 팀원 목록 페이지
+├── .idea              # 기본파일
+├── image/             # 이미지 파일 디렉토리
 ├── members/           # 팀원 정보 JSON 파일 디렉토리
+│   ├── 이니셜.json     # 팀원 json
+│   ├── 이니셜.md       # 팀원 md
 │   ├── members.json   # 팀원 목록 파일
-│   ├── member1.json  # 템플릿 1 (프론트엔드 개발자)
-│   ├── member2.json  # 템플릿 2 (백엔드 개발자)
-│   ├── member3.json  # 템플릿 3 (UI/UX 디자이너)
-│   ├── member4.json  # 템플릿 4 (풀스택 개발자)
-│   ├── member5.json  # 템플릿 5 (데이터 분석가)
 │   └── example.json   # 예시 팀원 정보
-└── image/             # 이미지 파일 디렉토리
+├── web/               # 이미지 파일 디렉토리
+│   ├── index.html     # 팀원 정보 html
+│   ├── script.js      # 스크립트 js
+└── └── style.css      # 스타일 css
 ```
 
 ## 협업 및 브랜치 관리 규칙 (Git Ruleset)
