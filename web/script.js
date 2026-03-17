@@ -24,13 +24,13 @@ async function loadMembers() {
 
             card.innerHTML = `
                 <div class="profile-img">
-                    <img src="../image/github.svg" alt="${member.name} 프로필 이미지">
+                    <img src="../image/github.svg">
                 </div>
                 <div class="name">${member.name}</div>
-                <div class="role">${member.info.resolution}</div>
-                <div class="desc">${member.introduction.quote}</div>
-                <div class="skills">
-                    ${member.strengths.map(strength => `<span class="skill-tag">${strength}</span>`).join("")}
+                <div class="resolution">${member.info.resolution}</div>
+                <div class="quote">${member.introduction.quote}</div>
+                <div class="strengths">
+                    ${member.strengths.map(strength => `<span class="strengths-tag">${strength}</span>`).join("")}
                 </div>
             `;
 
