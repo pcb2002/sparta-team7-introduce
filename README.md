@@ -2,8 +2,8 @@
 
 ## 프로젝트 구조
 ```
-sparta-git-cowork/
-├── .idea              # 기본파일
+sparta-team7-introduce/
+├── .idea/             # 기본파일
 ├── image/             # 이미지 파일 디렉토리
 ├── members/           # 팀원 정보 JSON 파일 디렉토리
 │   ├── 이니셜.json     # 팀원 json
